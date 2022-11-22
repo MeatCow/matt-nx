@@ -17,7 +17,8 @@
     "paths": {
       "@matt-nx/generated/be-api-types": [
         "libs/generated/be-api-types/src/index.ts"
-      ]
+      ],
+      "@mpauze/meaty-lib": ["libs/meatytest/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
