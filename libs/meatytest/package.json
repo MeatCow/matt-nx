@@ -1,6 +1,9 @@
 {
   "name": "@mpauze/meaty-lib",
   "version": "0.0.1",
+  "scripts": {
+    "test": "echo 'success'"
+  },
   "peerDependencies": {
     "@angular/common": "^14.2.0",
     "@angular/core": "^14.2.0"
